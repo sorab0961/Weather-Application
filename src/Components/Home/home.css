@@ -1,5 +1,5 @@
 .home {
-    height: calc(100vh - 50px);
+    height: auto;
     padding: 25px;
     display: flex;
     flex-direction: column;
