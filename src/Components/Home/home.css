@@ -3,7 +3,8 @@
     padding: 25px;
     display: flex;
     flex-direction: column;
-    background-image: url(bg-weather.png);
+/*     background-image: url(bg-weather.png); */
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
     gap: 30px;
     background-repeat: repeat-y;
     font-family: monospace;
